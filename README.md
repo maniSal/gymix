@@ -26,3 +26,5 @@ AI Collaboration: Developed with assistance from Claude AI, with custom design i
 
 🎨 Design Palette
 The visual identity of Gymix is built on a custom color palette (inspired by Dribbble trends) that balances energy with professional health aesthetics.
+    Simple & clear
+The logo result was not as expected, so I decided to use a text-based version instead.
